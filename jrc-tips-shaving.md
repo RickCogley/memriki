@@ -101,7 +101,7 @@ Shaving brushes are cheap to uber expensive, about JPY 2000 to 40,000. There are
 
 The knot is key, and synthetic brushes are often flimsy feeling because of that, but, [Spiffo](https://spiffo.com) makes a synthetic knot that feels like silver tip badger, called their "luxedo" knot. 
 
-**In Japan**, I've seen inexpensive KENT brushes for sale for around JPY 2000. Yurakucho Hankyu Mens has Muhle brushes. 
+**In Japan**, I've seen inexpensive KENT brushes for sale for around JPY 2000. Yurakucho Hankyu Mens has more expensive Muhle brushes. 
 
 ### Aftershave
 
