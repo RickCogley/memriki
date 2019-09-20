@@ -124,8 +124,7 @@ So far:
 * Pat dry and apply shaving oil to beard area
 * Gently shave a couple of difficult bits around the edges of my goatee 
 * Brush teeth to give oil a couple more minutes
-* Press out a little shaving cream into hand, lather with brush
-* Scoop up the soap and apply to face, lathering directly on face
+* Press out a little shaving cream into hand, shake water from brush, lather soap in hand with brush, scoop up the lather "pile" with the brush and apply to face, lathering further directly on face
 * Shave (without pressing, letting the razor's weight work for me) with grain of beard as a first pass, starting in the middle of neck under goatee, and working out so that things stay even
 * Re-lather
 * Shave across grain of beard to get a closer shave
