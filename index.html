@@ -10,7 +10,7 @@
   <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono|IBM+Plex+Sans:400,400i,700" rel="stylesheet"> 
   <!-- <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css"> -->
   <!-- Theme: Simple -->
-<link rel="stylesheet" href="https://unpkg.com/docsify-themeable/dist/css/theme-simple.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
   <link rel="stylesheet" href="./docs.css">
   <!-- Import mermaid -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.css">
@@ -30,13 +30,13 @@
         /* Reduce the font size */
         /* --base-font-size: 14px; */
     
-        /* Change the theme color hue */
-        --theme-hue: 10;
-    
         /* Change the sidebar bullets */
         /* --sidebar-nav-link-before-content: '😀'; */
-
-        --theme-color: #93278F;
+        /* Theme Colors */
+        --theme-hue: 204;
+        --theme-saturation: 90%;
+        --theme-lightness: 45%;
+        --theme-color: hsl(var(--theme-hue), var(--theme-saturation), var(--theme-lightness));
       }
     </style>
 </head>
@@ -104,7 +104,7 @@
             '<hr/>',
             '<footer>',
             '<span><a href="https://github.com/RickCogley/memriki/">Rick Cogley Memriki</a> &copy;2019.</span>',
-            '<span> Powered by <a href="https://github.com/QingWei-Li/docsify" target="_blank">docsify</a> and served by <a href="https://keybase.io" target="_blank">Keybase</a>.</span>',
+            '<span> Powered by <a href="https://github.com/QingWei-Li/docsify" target="_blank">docsify</a>, themed with <a href="https://jhildenbiddle.github.io/docsify-themeable/#/introduction" target="_blank">docsify-themeable</a>, and served over <a href="https://keybase.io" target="_blank">Keybase Pages</a>.</span>',
             '</footer>'
           ].join('')
           hook.afterEach(function (html) {
