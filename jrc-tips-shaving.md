@@ -97,7 +97,7 @@ Haven't experimented much. So far I am just using CO Bigelow's shaving cream and
 
 ### Brushes
 
-Shaving brushes are cheap to uber expensive, about JPY 2000 to 40,000. There are syntetic ones, and natural hair ones. The natural hair ones are apparently usually eurasian badger or "anaguma" in Japanese. There are grades of badger, and "silver tip" hair seems to be the most expensive and sought after. 
+Shaving brushes are cheap to uber expensive, about JPY 2000 to 40,000. There are synthetic ones, and natural hair ones. The natural hair ones are apparently usually eurasian badger or "anaguma" in Japanese. There are grades of badger, and "silver tip" hair seems to be the most expensive and sought after. 
 
 The knot is key, and synthetic brushes are often flimsy feeling because of that, but, [Spiffo](https://spiffo.com) makes a synthetic knot that feels like silver tip badger, called their "luxedo" knot. 
 
