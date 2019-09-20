@@ -1,4 +1,4 @@
-# Traditional Shaving Tips
+# "Traditional Shaving" Tips
 
 In late summer of 2019, I rediscovered "traditional shaving", which can be classified as shaving that relies on the products that Dad or Grandpa used to use in the 1950s, such as a "double edge" safety razor or straight edge razor, pre-shave oil, shaving cream that you work into a lather using a shaving brush with badger bristles, and a bracing after shave. 
 
@@ -6,9 +6,9 @@ Sometimes you hear it referred to as "wet shaving" and while I'm no expert, that
 
 I'm enjoying shaving this way, and have turned it into a meditative morning ritual, performed before the women of the house arise and invade the bathroom. Besides, it's manly, takes skill, and I like smelling nice. 
 
-There's an initial investment for traditional shaving as you get geared up, but the blades are inexpensive compared to cartridges, once you get a combination that works for you. 
+There's an initial investment for traditional shaving as you get geared up, but the blades are inexpensive compared to the typical 5-blade cartridges, once you get a combination that works for you. 
 
-This document is my initial notes based on reading the many online communities like [/r/wicked_edge](https://reddit.com/r/wicked_edge) on Reddit and [Badger and Blade](http://www.badgerandblade.com/forum/), sites like [Sharpologist](https://sharpologist.com), and my own experimentation.  
+This document is my initial notes based on reading the many online communities like [/r/wicked_edge](https://reddit.com/r/wicked_edge) on Reddit and [Badger and Blade](http://www.badgerandblade.com/forum/), sites like [Sharpologist](https://sharpologist.com), and my own experimentation. I live near Tokyo so there's some information in here about getting products in Japan.   
 
 ## Equipment
 
@@ -43,99 +43,103 @@ SE examples:
 * Blackland Vector or Sabre
 * Schick Type O "injector" original new-old stock, or a [clone](https://www.ebarbershop.com/ebarbershop-schick-type-injector-razor-handle.html)
 * RazoRock Hawk
+* AboveTheTie G1
+
+**In Japan**, there are sometimes cheap Feather DE holders in pharmacies, and, Feather makes a more expensive DE razor as well, which is sometimes available for about JPY 25,000. Hankyu Mens in Yurakucho Tokyo carries Muhle razors and accessories, but they don't carry more than one of each item, and won't give any kind of discount for damaged shelf stock. That's pretty unfortunate actually, because it's otherwise a really nice department store. 
 
 ### Blades
 
-There are still a lot of DE and SE blades being produced. 
+There are still a lot of DE and SE blades being produced. SE blades are thicker and less flexible compared to a DE blade, so they last longer, and tend to be more stable on the face without what might be called "chatter", that you sometimes get with a DE blade. 
 
-* Japanese "Feather High Stainless" DE blades are aggressive and may bite a beginner
+* Japanese "Feather High Stainless" DE blades are aggressive and may "bite" a beginner
 * Israeli Personna DE blades are milder, and are what Muhle uses for their branded blades
 * Derby and Astra DE blades are milder, and more suitable for a beginner
-* As for SE blades, Schick Injector I's work in the Supply V2
-* Also an SE, the OneBlade models can take Feather FHS-10 blades
+* As for SE blades, Schick Injector I's work in the Supply V2 SE razor, the OneBlade models can take Feather FHS-10 blades, and the Blackland Sabre takes GEM style blades
+
+**In Japan**, most pharmacies don't seem to carry blades any longer, but they are easily available from Amazon. Feather, which is well-regarded, is a Japanese company, so those are pretty easy to get. A double edge blade is "ryoba" 両刃 and a single edge blade is "kataba" 片刃. 
 
 ### Oil
 
-Jojoba, almond, olive, grapeseed
-Famous premade one is proraso
+A pre-shave oil can be applied to soften up your beard before applying soap and shaving (some people shave directly with just the oil). You can buy famous preshave's like "Proraso" but, a lot of people make their own. 
 
-Bellac, Olive Oil is used extensively and for more than cooking and is a Carrier Oil, The Romans used it to Shave and as a Body moisturizer it abosrbs well and doesn't clog your pores.
-It's great for removing water stains from Real Wood Furniture and has many health benefits.
+It looks like a lot of different oils can be combined along with a couple drops of essential oil (EO) for scent. A typical combination is jojoba, sweet almond, olive (squalane), and grapeseed. Now I'm trying the following (number indicates part): 
 
-During the Winter I blend it with no more than 20% Shea Nut Oil and 20% Soybean Oil, a Lavender EO for Scent (Wife) or Bergamot Mint (me), ~3 drops per oz. It can be used as a Pre-shave, Post-shave & an overnight moisturizer, inexpensive and easy to blend. My Summer Blend is Olive Oil, 20% Soybean Oil and 20% Kukui Oil + EO for Scent.
+* 1 part jojoba, 1 sweet almond, 1 olive (squalane), 0.25 St. John's Wort oil (the extract in other similar oils), and some drops of cedar EO. (Tried a blend with eucalyptus but it felt and smelled harsh)
 
-Rich’s oil:
+Other oil recipes from B&B forum: 
 
-    1. Castor Oil – 2 oz.
-    2. Grape Seed Oil – 1 oz.
-    3. Olive Oil – 1 oz.
-    4. Avocado Oil – 1 oz.
-    5. Apricot Oil – 1 oz.
-    6. Vitamin E Oil – 1 oz.
-    7. Lanolin – 1⁄2 – oz.
-    8. Glycerin – 1⁄2 – oz.
-    9. Almond Oil – 1 oz.
-    10.Tea Tree Oil – 10 drops.
+* **mftoms59**: Winter blend is 3 olive, 1 shea nut, 1 soybean, 3 drops bergamot EO. Summer is 3 olive, 1 soybean, 1 kukui and EO. 
+* **Rich**: 2 castor, 1 grape seed, 1 olive, 1 avocado, 1 apricot, 1 vitamin E, 1 almond, 0.5 lanolin, 0.5 glycerin, ~1 drop per oz of tea tree EO.
+* **Joe**: 3 castor, 1 grape seed, 1 olive, drops of mint and lavender EO. 
+* **Mike**: 1 almond, 1 avocado, 1 olive, 1 coconut, tsp of glycerin, drops of tea tree and peppermint EO. 
+* **Donald**: 3 almond, 1 castor, tsp of glycerin, drops of EO for scent. 
+* **Rabidus**: 3 almond, 2 castor, drops of EO.
+* **Krusty**: argan oil with drops of lime EO.
 
-It makes an 8 ounce batch.
-Joe’s oil,
+A couple tips about oils: 
 
-as ratios:
+* Grapeseed: light, "non-oily" oil
+* Argan: great for older skin, but a greasier feel
+* Jojoba: also great for older skin, said to cure eczema due to anti-inflammatory properties, similar to skin's natural oil, has a long shelf life
+* Sweet Almond: medium weight oil and good for dry skin, contains vitamin E, helps with eczema and dandruff (there is also bitter almond oil, which is more for scent)
+* Rosehip: thicker oil good for healing injuries such as acne scars
+* Coconut: can cause acne in some people, so maybe not great for the face
+* Squalane: derived from olives, a light and non-greasy oil, good for acne-prone or sensitive skin
+* Store oils in a cool, dark place 
+* "Essential oils" are concentrated volatile oils that have a scent
+* "Carrier oils" are neutral, natural oils with little to no scent, that you typically dissolve an essential oil in. They don't evaporate like essential oils
 
-    3/5 of castor oil,
-    1/5 of grape seed oil
-    1/5 of olive oil
-    about 10 drops of mint and lavender essential oils.
-
-Mike’s oil
-
-Equal amounts of:
-
-    almond oil
-    avocado oil
-    olive oil
-    coconut oil
-
-plus:
-
-    about 20-25 drops of tea tree oil
-    a spoonful of glycerin
-    20 drops of peppermint oil.
-
-Donald’s oil:
-
-    3 oz almond oil,
-    1 oz castor oil,
-    a tsp or two of your favorite essential oils for scent as desired.
-    Maybe add a dash of glycerin for extra glide if you want.
+**In Japan**, Muji-ryohin is a good source for some of these oils. There's a product by Argelan called: "St. John’s Wort Apricot" Organic Certified Moist Deep Skincare Oil. This is a popular organic brand readily available at Matsukiyo, and this oil has the healing St. John's Wort with other oils mixed. You can also get Bio-Oil, known as "Bioil" in Japan, which is super hyped these days as having "healing properties". Hmm...
 
 ### Soap
 
-Haven't experimented much. Just using CO Bigelow's cream and working up a lather in my hand then on my face. 
+Haven't experimented much. So far I am just using CO Bigelow's shaving cream and working up a lather in my hand, then on my face. Works well if you warm the bristles of the brush first. 
 
 ### Brushes
 
-Shaving brush: from 3000 to 30,000 - anaguma or eurasian badger hair is the best. "Silver tip" badger seems to be sought after.
+Shaving brushes are cheap to uber expensive, about JPY 2000 to 40,000. There are syntetic ones, and natural hair ones. The natural hair ones are apparently usually eurasian badger or "anaguma" in Japanese. There are grades of badger, and "silver tip" hair seems to be the most expensive and sought after. 
 
-Spiffo's synthetic "luxedo" knot is like badger. https://spiffo.com/shop/pierce/
+The knot is key, and synthetic brushes are often flimsy feeling because of that, but, [Spiffo](https://spiffo.com) makes a synthetic knot that feels like silver tip badger, called their "luxedo" knot. 
+
+**In Japan**, I've seen inexpensive KENT brushes for sale for around JPY 2000. Yurakucho Hankyu Mens has Muhle brushes. 
 
 ### Aftershave
 
-Clarins
-Aramis
-Bayrum
+Haven't experimented much. I had Aramis from before, which is OK but to me smells old fashioned, and I recently got Clarins "After Shave Energizer" which is more reasonably priced, and has a light, pleasant scent that disappears quickly (so you can apply whatever cologne). Another famous style of after shave is "bay rum". 
 
-Witch Hazel is ハマメリス水 in Japanese
-Has healing properties... 
+Witch hazel is a plant extract that acts as an antiseptic with healing properties, and people often use it, or a toner that contains it, as an after shave. It's called hamamerisu-sui (ハマメリス水) in Japanese, from the name of the plant: _hamamelis virginiana_. 
+
+**In Japan**, witch hazel is available in various forms, usually mixed with other stuff: 
+
+* Kracie "Moistage" Astringent Essence Lotion - 'hikishime' type with collagen and hamamerisu-sui
+* Argelan organic mist lotion "Hamamelis Chamomile" with tea tree oil
+* Mandom Lucido After-40 Ageing Care Refreshing Lotion
 
 ## The Ritual
 
-Be Gentle
-You can strop a blade on your palm, denim or cork before use, to take away microscopic burrs.
+So far: 
 
+* Rinse shaving brush and put it in warm water
+* Wash face
+* Pat dry and apply shaving oil to beard area
+* Gently shave a couple of difficult bits around the edges of my goatee 
+* Brush teeth to give oil a couple more minutes
+* Press out a little shaving cream into hand, lather with brush
+* Scoop up the soap and apply to face, lathering directly on face
+* Shave (without pressing, letting the razor's weight work for me) with grain of beard as a first pass, starting in the middle of neck under goatee, and working out so that things stay even
+* Re-lather
+* Shave across grain of beard to get a closer shave
+* Rinse and pat dry; apply alum if I cut myself
+* Apply after shave
+* Apply light moisturizer after after shave dries
+* Rinse and dry brush and razor
+* Strop razor blade while in razor, for a few strokes opposite the shaving direction, on a section of old jeans I keep in cabinet
 
-## Japanese
+Other tips: 
 
-kataba
-ryoba
-horuda
+* Be gentle and let the weight of the razor work for you - some people say to do short strokes which does seem to work for harder to see areas
+* Most DE or SE razors don't pivot (except the OneBlade) so you need to develop some muscle memory to get it right
+* Some people strop the razor blade before use, which is said to remove microscopic burrs. You can strop on an old piece of denim, a cork or your hand even
+* SE blades usually are good for 5 to 7 shaves, while DE blades usually work for 3 to 4 shaves. Replace if the blade is "pulling" and not cutting
+
+Thanks for reading and I hope this was useful. 
